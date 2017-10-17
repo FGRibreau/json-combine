@@ -1,0 +1,19 @@
+{
+  "name": "json-combine",
+  "version": "1.0.0",
+  "description": "Generate every possible combination",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.set": "^4.3.2"
+  }
+}
