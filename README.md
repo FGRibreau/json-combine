@@ -2,7 +2,7 @@
 
 ### Generate every possible combination of values
 
-[![Build Status](https://img.shields.io/circleci/project/FGRibreau/json-combine.svg)](https://circleci.com/gh/FGRibreau/json-combine/) [![Deps](	https://img.shields.io/david/FGRibreau/json-combine.svg)](https://david-dm.org/FGRibreau/json-combine) [![NPM version](https://img.shields.io/npm/v/json-combine.svg)](http://badge.fury.io/js/json-combine) 
+[![Build Status](https://img.shields.io/circleci/project/FGRibreau/json-combine.svg)](https://circleci.com/gh/FGRibreau/json-combine/) [![Coverage Status](https://img.shields.io/coveralls/FGRibreau/json-combine/master.svg)](https://coveralls.io/github/FGRibreau/json-combine?branch=master) [![Deps](	https://img.shields.io/david/FGRibreau/json-combine.svg)](https://david-dm.org/FGRibreau/json-combine) [![NPM version](https://img.shields.io/npm/v/json-combine.svg)](http://badge.fury.io/js/json-combine) 
 
 <!--[![Downloads](http://img.shields.io/npm/dm/json-combine.svg)](https://www.npmjs.com/package/json-combine) -->
 
