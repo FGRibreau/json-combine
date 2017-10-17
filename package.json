@@ -4,7 +4,11 @@
   "description": "Generate every possible combination",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "ci": "coveralls < coverage/lcov.info"
+  },
+  "jest": {
+    "collectCoverage": true
   },
   "engines": {
     "node": ">=8"
@@ -13,6 +17,7 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.1.0",
+    "coveralls": "^2.13.1",
     "jest": "^20.0.4"
   },
   "dependencies": {
